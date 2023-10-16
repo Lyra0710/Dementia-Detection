@@ -1,0 +1,664 @@
+oasis_id,demographics_id,demographics_firstvisit,sex,age,edu,race,hispanic,marriage,declong,decage,smoke,height,weight,bmi,health_history1,health_history2,health_history3,health_history4,health_history5,health_history6,health_history7,health_history10,health_history11,health_history12,final_dx,final_dx_categorized
+OAS42000,OAS42000_demographics_d3000,0,2,76,0,1,9,2,1,75,1,60,162,31.6,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42001,OAS42001_demographics_d3000,0,1,82,4,1,0,1,3,79,1,69,160.2,23.7,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42002,OAS42002_demographics_d3000,1,1,73,4,1,0,1,3,70,1,69,208,30.7,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42003,OAS42003_demographics_d3000,0,2,80,2,1,0,3,2,78,0,63,148,26.2,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42004,OAS42004_demographics_d3000,0,2,77,2,1,0,1,5,72,0,65,134,22.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42006,OAS42006_demographics_d3000,0,2,73,2,1,0,1,5,68,0,66,132.125,21.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42007,OAS42007_demographics_d3000,1,1,74,0,1,0,1,3,71,0,67,137,21.5,0,0,0,0,0,0,0,0,0,1,MCI,2
+OAS42009,OAS42009_demographics_d3000,0,2,84,2,1,0,1,2,82,0,62,102,18.7,0,0,0,0,0,0,0,0,0,0,DLB,10
+OAS42010,OAS42010_demographics_d3000,1,2,71,2,1,0,3,7,64,1,60,130,25.4,0,0,0,0,0,0,0,0,0,1,Alzheimer Disease Dementia,1
+OAS42011,OAS42011_demographics_d3000,0,2,67,2,1,0,1,14,53,0,63,214,37.9,0,0,0,0,0,0,0,0,0,1,Uncertain - AD possible,8
+OAS42012,OAS42012_demographics_d3000,0,1,57,3,1,0,1,1.25,55,1,73,223.5,29.5,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42013,OAS42013_demographics_d3000,0,1,72,4,1,0,1,1,71,0,72,227,30.8,0,1,0,0,0,0,0,0,0,0,AD Variant,11
+OAS42014,OAS42014_demographics_d3000,0,2,77,2,3,1,1,7,70,1,62,98,17.9,0,0,0,0,0,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42015,OAS42015_demographics_d3000,0,1,62,3,1,0,1,3,59,0,74,247.125,31.7,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42016,OAS42016_demographics_d3000,0,2,74,0,1,1,2,2,72,0,60,115,22.5,0,0,0,0,0,0,0,0,0,0,Other Non-AD Neurodegenerative Disorder,5
+OAS42017,OAS42017_demographics_d3000,0,1,60,3,1,0,1,3,57,0,68,194.6,29.6,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42019,OAS42019_demographics_d3000,0,2,72,0,1,0,1,1,71,0,67,112,17.5,0,0,0,0,0,0,0,0,0,0,AD+Non Neurodegenerative,13
+OAS42020,OAS42020_demographics_d3000,0,1,79,2,1,0,1,3,76,1,68,143,21.7,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42022,OAS42022_demographics_d3000,0,2,83,2,1,0,1,1,82,0,59.5,129,25.6,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42023,OAS42023_demographics_d3000,0,2,84,2,1,0,3,3,81,0,62,120,21.9,0,1,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42024,OAS42024_demographics_d3000,0,1,73,0,1,1,1,3,70,0,64,159,27.3,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42025,OAS42025_demographics_d3000,0,2,82,1,1,0,3,5,77,0,64,128.125,22,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42026,OAS42026_demographics_d3000,0,1,73,4,1,0,4,1,72,0,70,175,25.1,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42027,OAS42027_demographics_d3000,0,2,64,4,1,0,1,3,61,0,62,121,22.1,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42028,OAS42028_demographics_d3000,0,2,75,2,1,0,3,2,73,0,57,134,29,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42029,OAS42029_demographics_d3000,0,1,72,4,1,9,1,2,70,0,71,180,25.1,0,1,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42030,OAS42030_demographics_d3000,0,2,62,2,2,9,2,3,59,1,63.5,191,33.3,0,0,0,0,0,0,0,0,0,0,Other - Miscellaneous,14
+OAS42032,OAS42032_demographics_d3000,0,2,55,2,1,9,1,5,50,1,67,167,26.2,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42033,OAS42033_demographics_d3000,0,2,73,2,1,0,1,7,66,1,62,104.6,19.1,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42034,OAS42034_demographics_d3000,0,2,78,2,2,0,4,1,77,1,64,148,25.4,0,0,0,0,0,0,0,0,0,0,Other - Miscellaneous,14
+OAS42035,OAS42035_demographics_d3000,0,1,73,3,1,0,1,2,71,1,75,181,22.6,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42036,OAS42036_demographics_d3000,0,1,74,2,2,0,1,9,65,0,69,141.8,20.9,0,0,0,0,0,0,1,0,0,0,Alzheimer Disease Dementia,1
+OAS42037,OAS42037_demographics_d3000,0,2,83,3,1,0,3,3,80,0,65,144.5,24,0,0,0,0,0,0,0,0,0,1,Alzheimer Disease Dementia,1
+OAS42038,OAS42038_demographics_d3000,0,2,62,4,1,0,1,3,59,1,68,202,30.7,0,0,0,0,0,0,0,0,0,1,Early Onset AD,4
+OAS42040,OAS42040_demographics_d3000,0,1,66,3,1,0,1,2,64,1,65,179,29.8,1,0,1,0,0,0,0,0,0,0,AD Variant,11
+OAS42041,OAS42041_demographics_d3000,0,1,68,0,1,0,2,2,66,0,73,235.25,31,0,0,0,0,0,0,0,0,0,0,Vascular Cognitive Impairment (VCI),6
+OAS42042,OAS42042_demographics_d3000,0,1,94,0,5,0,1,2,92,0,68,146,22.2,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42043,OAS42043_demographics_d3000,0,2,46,4,1,0,1,6,40,1,68,145,22,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42044,OAS42044_demographics_d3000,0,2,71,2,1,9,1,3,68,0,60.5,101,19.4,0,0,0,0,0,0,0,0,0,1,Alzheimer Disease Dementia,1
+OAS42045,OAS42045_demographics_d3000,0,1,75,2,1,0,1,3,72,0,71,205,28.6,0,0,0,0,0,0,0,0,0,0,Vascular Cognitive Impairment (VCI),6
+OAS42046,OAS42046_demographics_d3000,0,2,70,2,1,9,1,3,67,1,62,122.125,22.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42047,OAS42047_demographics_d3000,0,2,76,4,1,0,3,3,73,0,63,143,25.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42048,OAS42048_demographics_d3000,0,1,72,3,50,0,1,3,69,0,72,189,25.6,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42049,OAS42049_demographics_d3000,0,1,71,2,1,0,1,2,69,1,71.5,246,33.8,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42050,OAS42050_demographics_d3000,0,1,69,3,1,0,2,5,64,0,74,232,29.8,0,0,0,0,0,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42051,OAS42051_demographics_d3000,0,1,39,2,1,0,1,4,35,0,75,316,39.5,0,0,0,0,0,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42052,OAS42052_demographics_d3000,0,1,90,2,1,0,3,1,89,1,69.5,154.125,22.4,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42053,OAS42053_demographics_d3000,0,2,66,2,2,9,2,1,65,0,64,194,33.3,0,0,0,0,0,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42054,OAS42054_demographics_d3000,0,2,74,2,1,0,4,4,70,0,64,140.25,24.1,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42055,OAS42055_demographics_d3000,0,2,66,3,2,0,1,3,63,0,62.5,122,22,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42056,OAS42056_demographics_d3000,0,2,76,4,1,0,4,4,72,0,67.5,146,22.5,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42057,OAS42057_demographics_d3000,0,1,68,2,2,0,1,0.5,67,1,73,195,25.7,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42058,OAS42058_demographics_d3000,0,2,69,2,4,1,1,5,64,1,61,119,22.5,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42059,OAS42059_demographics_d3000,0,2,61,2,1,0,1,3,58,0,68,213,32.4,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42060,OAS42060_demographics_d3000,0,1,75,2,1,0,1,1,74,1,69,224,33.1,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42061,OAS42061_demographics_d3000,0,2,80,4,1,0,3,2,78,1,60,113,22.1,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42062,OAS42062_demographics_d3000,0,1,66,2,1,0,1,3,63,1,69,158,23.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42063,OAS42063_demographics_d3000,0,1,71,2,1,0,1,16,55,1,72,204,27.7,0,0,0,1,0,0,0,0,0,0,Vascular Cognitive Impairment (VCI),6
+OAS42064,OAS42064_demographics_d3000,0,1,83,2,1,0,1,4,79,1,67,144,22.6,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42065,OAS42065_demographics_d3000,0,1,77,2,1,0,1,5,72,1,65,119,19.8,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42066,OAS42066_demographics_d3000,1,2,69,1,1,0,3,9,60,1,60,174,34,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42067,OAS42067_demographics_d3000,0,2,72,4,5,0,1,2.5,69,0,60,118,23,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42068,OAS42068_demographics_d3000,0,1,84,4,1,0,1,5,79,0,69,177,26.1,0,0,0,0,0,0,0,0,1,0,Uncertain - AD possible,8
+OAS42069,OAS42069_demographics_d3000,0,1,50,3,1,0,1,10,40,0,73,223,29.4,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42070,OAS42070_demographics_d3000,1,2,91,2,1,0,2,7,84,1,58,130,27.2,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42071,OAS42071_demographics_d3000,0,1,85,0,1,0,3,3,82,1,65,168.8,28.1,1,0,0,0,0,0,1,0,0,0,Cognitively Normal,0
+OAS42072,OAS42072_demographics_d3000,0,1,82,2,1,0,3,2,80,1,72,230,31.2,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42073,OAS42073_demographics_d3000,0,1,77,4,2,0,3,2,75,1,69,243,35.9,1,0,0,1,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42074,OAS42074_demographics_d3000,1,1,75,4,1,0,1,3,72,0,71.5,170,23.4,0,0,0,1,0,0,0,0,0,1,Vascular Cognitive Impairment (VCI),6
+OAS42075,OAS42075_demographics_d3000,0,2,80,2,5,0,1,5,75,1,64,138,23.7,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42077,OAS42077_demographics_d3000,0,1,89,4,1,0,1,2,87,1,71,199,27.8,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42078,OAS42078_demographics_d3000,0,2,76,2,1,0,1,9,67,0,65,149,24.8,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42079,OAS42079_demographics_d3000,0,2,72,4,1,0,1,1,71,0,67,128,20,0,0,0,0,0,0,0,0,0,1,Cognitively Normal,0
+OAS42080,OAS42080_demographics_d3000,0,2,66,2,1,0,1,4,62,0,62,98.5,18,0,0,0,0,0,0,0,0,1,0,DLB,10
+OAS42082,OAS42082_demographics_d3000,1,2,70,3,1,0,1,1,69,0,63,137,24.3,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42083,OAS42083_demographics_d3000,0,1,83,4,1,0,1,2,81,0,65,106,17.6,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42084,OAS42084_demographics_d3000,0,1,65,3,1,0,1,4,61,0,68,231,35.1,0,0,0,0,0,0,0,0,0,0,Other - Miscellaneous,14
+OAS42085,OAS42085_demographics_d3000,1,1,74,4,1,0,1,8,66,1,66,161,26,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42086,OAS42086_demographics_d3000,0,1,76,4,1,0,1,3,73,1,66,241,38.9,0,0,1,0,0,0,0,0,0,0,FTD,3
+OAS42087,OAS42087_demographics_d3000,0,2,77,3,1,0,3,5,72,1,67,159,24.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42089,OAS42089_demographics_d3000,0,1,86,2,1,0,1,3,83,1,71,181.25,25.3,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42090,OAS42090_demographics_d3000,0,2,62,4,1,0,1,2,60,0,63,210,37.2,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42091,OAS42091_demographics_d3000,0,1,78,4,1,0,1,1,77,0,76,215,26.2,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42092,OAS42092_demographics_d3000,1,1,86,3,1,0,1,3,83,0,68,153,23.3,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42093,OAS42093_demographics_d3000,0,1,72,4,50,0,1,3,69,0,66,163,26.3,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42094,OAS42094_demographics_d3000,0,2,87,2,1,0,3,1,86,2,61,146,27.6,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42095,OAS42095_demographics_d3000,0,1,60,3,1,0,1,1,59,0,74,246,31.6,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42096,OAS42096_demographics_d3000,1,1,69,4,2,0,1,7,62,0,70.5,229,32.4,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42097,OAS42097_demographics_d3000,0,2,80,1,2,0,1,0.33,80,1,63,169,29.9,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42098,OAS42098_demographics_d3000,0,2,74,0,1,0,1,3,71,0,65.75,126.25,20.5,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42100,OAS42100_demographics_d3000,0,1,68,3,1,0,1,3,65,2,72,171,23.2,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42102,OAS42102_demographics_d3000,0,1,73,4,1,0,1,4,69,1,70,167,24,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42103,OAS42103_demographics_d3000,0,2,79,3,1,9,1,2,77,0,62,144.25,26.4,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42104,OAS42104_demographics_d3000,0,2,82,2,1,0,1,2,80,0,61,100,18.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42105,OAS42105_demographics_d3000,0,2,77,4,1,0,4,10,67,1,63.8,103,17.8,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42106,OAS42106_demographics_d3000,0,1,79,1,1,0,1,5,74,1,74,251.125,32.2,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42108,OAS42108_demographics_d3000,0,2,75,3,2,0,1,2,73,0,60,148,28.9,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42109,OAS42109_demographics_d3000,0,1,71,0,1,0,1,1.5,69,1,68,165,25.1,1,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42110,OAS42110_demographics_d3000,0,2,75,3,1,0,4,1,74,0,64,132,22.7,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42111,OAS42111_demographics_d3000,0,1,70,4,1,0,2,3,67,1,69,173,25.5,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42112,OAS42112_demographics_d3000,0,1,86,3,1,0,3,3,83,1,70.5,217,30.7,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42113,OAS42113_demographics_d3000,0,1,78,4,1,0,1,10,68,0,77,180.375,21.4,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42114,OAS42114_demographics_d3000,0,2,79,3,1,9,1,1,78,0,62,103.375,18.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42116,OAS42116_demographics_d3000,0,1,73,0,1,0,2,0.5,73,1,68,159,24.2,0,0,0,0,0,0,0,0,0,1,MCI,2
+OAS42117,OAS42117_demographics_d3000,0,2,72,3,1,0,1,5,67,1,61,153.6,29,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42118,OAS42118_demographics_d3000,0,2,87,3,1,0,3,5,82,0,60,162,31.6,0,0,0,0,0,0,0,0,0,1,MCI,2
+OAS42119,OAS42119_demographics_d3000,0,1,72,2,1,0,2,1,71,0,67,177,27.7,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42120,OAS42120_demographics_d3000,0,2,93,0,1,0,1,3,90,0,63.5,114,19.9,0,0,0,0,0,0,0,0,0,1,Alzheimer Disease Dementia,1
+OAS42122,OAS42122_demographics_d3000,0,2,76,4,1,0,4,0.5,75,1,65,150,25,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42123,OAS42123_demographics_d3000,0,2,69,4,1,0,3,2,67,0,66,114,18.4,0,0,0,0,0,0,0,0,0,0,PPA,9
+OAS42124,OAS42124_demographics_d3000,0,2,80,0,1,9,1,1,79,0,61,129.375,24.4,0,0,0,0,0,0,0,0,0,1,Alzheimer Disease Dementia,1
+OAS42125,OAS42125_demographics_d3000,0,1,73,4,1,0,1,4,69,0,67,227,35.5,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42126,OAS42126_demographics_d3000,0,2,78,2,1,0,4,1,77,0,66,152,24.5,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42129,OAS42129_demographics_d3000,0,2,76,2,1,0,1,1,75,0,63,223,39.5,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42130,OAS42130_demographics_d3000,0,1,83,4,1,9,1,2,81,1,66,186,30,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42132,OAS42132_demographics_d3000,0,2,61,3,1,0,1,7,54,1,65.5,209.8,34.4,0,0,0,0,0,0,0,1,0,1,Vascular Cognitive Impairment (VCI),6
+OAS42133,OAS42133_demographics_d3000,0,1,82,4,1,0,1,3,79,0,70,217,31.1,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42134,OAS42134_demographics_d3000,0,2,68,3,2,0,4,0.66,68,0,66,240,38.7,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42135,OAS42135_demographics_d3000,0,1,88,3,1,0,3,7,81,0,69,204,30.1,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42136,OAS42136_demographics_d3000,0,2,89,2,1,9,4,1.5,87,0,61.5,108.5,20.2,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42137,OAS42137_demographics_d3000,0,2,46,3,1,0,1,4,42,2,66,231,37.3,0,0,0,0,0,0,0,0,0,0,Other - Miscellaneous,14
+OAS42139,OAS42139_demographics_d3000,0,1,72,4,1,0,1,3,69,1,70,138,19.8,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42140,OAS42140_demographics_d3000,0,1,66,3,1,0,1,2,64,0,65,139.8,23.3,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42141,OAS42141_demographics_d3000,0,2,86,1,1,0,3,3,83,1,66,139,22.4,0,1,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42142,OAS42142_demographics_d3000,0,1,73,4,1,0,1,7,66,0,71,220,30.7,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42143,OAS42143_demographics_d3000,0,1,61,2,1,0,1,4,57,2,72,209.125,28.4,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42144,OAS42144_demographics_d3000,0,2,62,3,1,0,1,4,58,1,64,197,33.8,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42145,OAS42145_demographics_d3000,0,1,72,2,1,0,1,1,71,1,72,193,26.2,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42146,OAS42146_demographics_d3000,0,1,77,0,1,0,1,5,72,0,70,184,26.4,0,0,0,0,0,0,0,0,0,0,Vascular Cognitive Impairment (VCI),6
+OAS42147,OAS42147_demographics_d3000,0,1,84,3,1,0,2,1,83,1,70,149,21.4,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42148,OAS42148_demographics_d3000,0,2,63,2,1,0,1,2,61,1,64,224,38.4,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42149,OAS42149_demographics_d3000,0,1,58,0,1,0,1,6,52,0,66,212.375,34.3,0,0,0,1,0,0,1,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42150,OAS42150_demographics_d3000,0,1,74,4,1,0,1,1,73,1,68,235,35.7,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42151,OAS42151_demographics_d3000,0,1,75,2,1,0,1,3,72,0,71,211,29.4,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42152,OAS42152_demographics_d3000,0,2,68,3,1,0,1,1,67,0,67,203.375,31.8,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42153,OAS42153_demographics_d3000,0,1,76,3,1,0,1,25,51,0,70,159,22.8,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42154,OAS42154_demographics_d3000,0,1,68,2,2,0,1,1,67,1,71,144,20.1,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42156,OAS42156_demographics_d3000,0,1,59,4,1,0,1,7,52,0,76,233.2,28.4,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42157,OAS42157_demographics_d3000,0,2,54,3,1,0,1,2,52,0,63,137,24.3,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42158,OAS42158_demographics_d3000,1,1,84,4,2,9,1,3,81,1,66.5,132,21,0,0,0,0,1,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42159,OAS42159_demographics_d3000,0,2,71,1,2,0,1,1,70,0,67,183,28.7,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42160,OAS42160_demographics_d3000,0,1,63,4,5,0,1,2,61,0,62,157,28.7,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42161,OAS42161_demographics_d3000,0,1,82,2,1,0,1,2,80,0,66,176.5,28.5,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42162,OAS42162_demographics_d3000,0,1,85,0,1,0,3,5,80,0,65,153,25.5,0,1,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42163,OAS42163_demographics_d3000,0,2,72,3,3,0,1,1,71,0,63,191.2,33.9,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42164,OAS42164_demographics_d3000,0,1,74,4,1,0,1,2,72,1,70,190,27.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42165,OAS42165_demographics_d3000,0,1,74,4,2,0,1,2,72,0,64.5,150,25.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42166,OAS42166_demographics_d3000,0,1,83,0,1,0,1,1,82,0,68,175,26.6,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42167,OAS42167_demographics_d3000,1,1,79,3,1,0,1,12,67,1,67,146,22.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42168,OAS42168_demographics_d3000,0,2,79,2,1,0,3,4,75,0,65,122.5,20.4,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42169,OAS42169_demographics_d3000,0,2,77,0,2,0,1,4,73,0,64,128,22,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42170,OAS42170_demographics_d3000,0,2,67,4,1,0,1,7,60,0,64,147,25.2,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42171,OAS42171_demographics_d3000,0,1,75,2,1,0,1,4,71,1,70.5,221,31.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42172,OAS42172_demographics_d3000,0,2,72,2,5,0,1,3,69,1,60,116,22.7,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42173,OAS42173_demographics_d3000,0,1,74,0,1,0,1,3,71,0,70,261,37.4,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42174,OAS42174_demographics_d3000,0,1,76,1,1,0,1,5,71,1,67,197,30.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42175,OAS42175_demographics_d3000,0,1,66,0,1,0,3,3,63,1,64,140.25,24.1,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42176,OAS42176_demographics_d3000,1,1,79,0,50,0,1,7,72,1,62,133.2,24.4,0,0,0,0,0,0,0,0,1,0,Other Non-AD Neurodegenerative Disorder,5
+OAS42177,OAS42177_demographics_d3000,0,2,86,2,1,0,3,2,84,0,60,182,35.5,0,0,0,0,0,0,0,0,0,1,AD/Vascular,7
+OAS42178,OAS42178_demographics_d3000,0,2,62,3,50,0,1,3,59,0,61,115,21.7,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42179,OAS42179_demographics_d3000,0,1,78,4,1,9,3,2,76,1,72,156,21.2,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42180,OAS42180_demographics_d3000,0,2,83,2,2,0,4,0.25,83,1,65,152,25.3,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42181,OAS42181_demographics_d3000,0,1,81,4,1,0,1,2,79,0,69,182,26.9,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42182,OAS42182_demographics_d3000,0,2,65,3,1,0,1,3,62,0,68,207,31.5,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42183,OAS42183_demographics_d3000,0,2,88,2,1,9,3,5,83,0,65,133,22.1,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42184,OAS42184_demographics_d3000,0,2,74,2,1,0,3,2,72,0,60,211.5,41.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42185,OAS42185_demographics_d3000,0,1,73,2,1,0,1,6,67,0,67,181,28.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42187,OAS42187_demographics_d3000,0,1,71,3,1,0,1,1,70,2,72,196,26.6,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42188,OAS42188_demographics_d3000,0,1,76,2,1,0,1,1,75,0,72,201,27.3,0,0,1,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42189,OAS42189_demographics_d3000,0,1,76,0,1,0,1,2,74,1,70,164,23.5,0,0,1,0,0,0,0,0,0,0,MCI,2
+OAS42190,OAS42190_demographics_d3000,0,2,76,2,1,0,1,2,74,1,68,163,24.8,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42191,OAS42191_demographics_d3000,0,2,67,3,1,0,1,5,62,0,61,144,27.2,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42192,OAS42192_demographics_d3000,0,2,90,3,1,0,3,3,87,0,62,136,24.9,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42194,OAS42194_demographics_d3000,0,2,66,3,1,0,1,1,65,0,66,175.2,28.3,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42195,OAS42195_demographics_d3000,0,2,66,2,1,0,3,3,63,1,62,141,25.8,0,0,0,0,0,0,0,0,0,0,AD+Non Neurodegenerative,13
+OAS42196,OAS42196_demographics_d3000,0,2,61,0,2,0,4,2,59,0,65,205,34.1,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42197,OAS42197_demographics_d3000,0,1,64,0,1,0,1,10,54,1,63,186,32.9,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42198,OAS42198_demographics_d3000,0,1,69,0,2,0,1,0.5,69,1,69,208,30.7,0,0,0,0,0,0,0,0,0,1,Alzheimer Disease Dementia,1
+OAS42199,OAS42199_demographics_d3000,0,2,82,4,1,0,3,5,77,0,64,163,28,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42200,OAS42200_demographics_d3000,1,2,72,2,2,0,1,7,65,0,69,180,26.6,1,0,1,0,0,1,0,0,0,0,AD/Vascular,7
+OAS42201,OAS42201_demographics_d3000,0,2,72,2,1,0,1,3,69,2,62,130.5,23.9,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42202,OAS42202_demographics_d3000,0,1,76,2,1,0,1,3,73,0,68.5,186.8,28,0,0,0,0,0,0,0,0,0,0,DLB,10
+OAS42204,OAS42204_demographics_d3000,0,2,78,3,1,0,3,6,72,1,60,131,25.6,0,0,0,0,0,0,0,0,1,0,AD+Non Neurodegenerative,13
+OAS42205,OAS42205_demographics_d3000,0,1,61,2,1,0,5,6,55,1,70,185,26.5,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42206,OAS42206_demographics_d3000,0,1,72,4,1,0,1,8,64,0,77,180,21.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42207,OAS42207_demographics_d3000,0,2,84,0,1,0,3,2,82,0,65,140,23.3,0,1,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42208,OAS42208_demographics_d3000,0,1,76,3,1,0,1,3,73,0,72,176,23.9,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42209,OAS42209_demographics_d3000,0,1,62,4,1,0,1,3,59,0,69,183.25,27.1,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42210,OAS42210_demographics_d3000,0,1,74,3,1,0,1,1,73,1,74,169,21.7,0,0,0,0,0,0,0,0,1,0,FTD,3
+OAS42211,OAS42211_demographics_d3000,0,2,80,2,1,0,1,0.5,80,0,62,163,29.8,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42212,OAS42212_demographics_d3000,0,2,64,2,2,0,1,4.5,59,0,64,144.4,24.8,0,0,0,0,0,0,0,0,0,1,AD/Vascular,7
+OAS42213,OAS42213_demographics_d3000,0,1,78,4,1,0,3,2,76,1,66,159,25.7,0,0,0,1,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42214,OAS42214_demographics_d3000,0,2,85,3,1,0,1,1,84,0,61,98,18.5,0,1,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42215,OAS42215_demographics_d3000,0,2,72,3,1,0,3,0.75,71,1,64.5,155.125,26.2,0,0,0,0,0,0,0,0,0,0,Other Non-AD Neurodegenerative Disorder,5
+OAS42216,OAS42216_demographics_d3000,0,1,70,2,1,0,1,9,61,2,69,195,28.8,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42217,OAS42217_demographics_d3000,0,1,67,4,1,0,1,3,64,0,74,313,40.2,0,1,0,0,0,0,0,0,0,0,MCI,2
+OAS42218,OAS42218_demographics_d3000,0,2,69,0,1,0,1,1,68,0,65,188,31.3,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42219,OAS42219_demographics_d3000,1,1,76,4,1,0,1,2,74,0,72,208,28.2,0,0,0,0,0,0,0,0,0,0,AD+Non Neurodegenerative,13
+OAS42220,OAS42220_demographics_d3000,0,2,66,2,2,0,2,1,65,0,67,180,28.2,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42221,OAS42221_demographics_d3000,0,1,73,3,1,0,2,2,71,1,68,150,22.8,0,0,1,1,0,0,0,0,0,0,AD/Vascular,7
+OAS42222,OAS42222_demographics_d3000,0,2,66,2,1,0,1,4,62,0,62,280,51.2,0,0,0,0,0,1,0,0,0,0,Uncertain - AD possible,8
+OAS42223,OAS42223_demographics_d3000,0,2,67,2,2,0,4,10,57,1,64,225,38.6,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42224,OAS42224_demographics_d3000,0,2,73,2,1,0,1,3,70,1,63,113,20,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42225,OAS42225_demographics_d3000,0,2,73,2,1,0,3,3.5,69,1,61,154.25,29.1,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42226,OAS42226_demographics_d3000,0,1,67,2,1,0,1,2,65,1,70,246,35.3,0,1,0,0,0,0,0,0,0,1,Non-Neurodegenerative Neurologic Disease,5
+OAS42227,OAS42227_demographics_d3000,0,2,88,4,1,0,1,2,86,1,61,152,28.7,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42228,OAS42228_demographics_d3000,0,1,76,3,1,0,1,0.25,76,1,67,167,26.2,0,0,0,0,0,0,0,0,0,1,MCI,2
+OAS42229,OAS42229_demographics_d3000,0,1,72,4,1,0,1,1,71,0,70.3,170,24.2,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42230,OAS42230_demographics_d3000,0,2,72,2,1,0,1,3,69,1,61.5,187,34.8,0,0,0,0,0,0,0,0,0,0,DLB,10
+OAS42231,OAS42231_demographics_d3000,0,2,82,3,2,0,2,1,81,0,58,168,35.1,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42232,OAS42232_demographics_d3000,0,1,62,2,2,0,1,6,56,0,67,190,29.8,0,0,0,0,0,0,0,0,0,1,Vascular Cognitive Impairment (VCI),6
+OAS42233,OAS42233_demographics_d3000,1,2,85,4,2,0,3,5,80,0,65,137,22.8,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42234,OAS42234_demographics_d3000,0,1,73,3,2,0,1,1.5,71,1,69,157,23.2,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42235,OAS42235_demographics_d3000,0,1,74,3,1,0,1,2,72,1,71,178.6,24.9,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42236,OAS42236_demographics_d3000,1,1,58,3,1,0,1,4,54,0,68.1,157,23.8,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42237,OAS42237_demographics_d3000,0,2,86,1,2,0,1,1,85,1,65,134,22.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42238,OAS42238_demographics_d3000,0,1,88,2,1,0,1,10,78,1,68,178,27.1,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42239,OAS42239_demographics_d3000,0,1,68,2,1,0,1,2,66,1,69,250,36.9,0,0,0,1,0,0,0,0,0,1,Alzheimer Disease Dementia,1
+OAS42240,OAS42240_demographics_d3000,0,2,59,4,1,0,1,2,57,0,66,149,24,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42241,OAS42241_demographics_d3000,0,2,61,3,1,0,1,2,59,0,66,131,21.1,0,0,0,0,0,0,0,0,0,0,PPA,9
+OAS42242,OAS42242_demographics_d3000,0,2,69,1,1,0,1,2,67,1,63,166,29.4,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42243,OAS42243_demographics_d3000,0,1,81,3,1,0,3,3,78,1,68.5,187,28,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42244,OAS42244_demographics_d3000,0,2,49,3,1,0,1,0.25,49,1,70,183,26.3,0,0,0,0,0,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42245,OAS42245_demographics_d3000,0,2,74,3,1,0,4,3,71,0,65,139.25,23.2,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42246,OAS42246_demographics_d3000,1,1,61,3,1,0,1,6,55,0,70.5,214,30.3,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42247,OAS42247_demographics_d3000,0,2,70,2,2,0,3,2,68,1,60,156,30.5,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42248,OAS42248_demographics_d3000,0,1,76,0,1,0,5,2,74,0,66,145,23.4,0,0,0,1,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42249,OAS42249_demographics_d3000,0,1,71,3,5,0,1,2,69,0,64,126,21.6,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42250,OAS42250_demographics_d3000,0,2,63,1,2,0,4,0.83,63,1,67,124,19.4,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42251,OAS42251_demographics_d3000,0,2,80,2,1,0,1,1,79,0,66,177,28.6,0,0,0,0,0,0,0,0,0,1,Mood/polypharmacy/sleep,12
+OAS42252,OAS42252_demographics_d3000,1,1,70,2,1,0,1,7,63,0,76,190,23.1,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42253,OAS42253_demographics_d3000,0,1,76,4,1,0,1,1,75,0,70,156.8,22.5,0,0,0,0,0,0,0,0,0,0,DLB,10
+OAS42255,OAS42255_demographics_d3000,0,2,86,1,2,0,3,1,85,0,64,171,29.3,0,0,0,0,0,0,0,1,0,1,Uncertain - AD possible,8
+OAS42256,OAS42256_demographics_d3000,0,1,56,2,1,0,1,3,53,0,73,198,26.1,0,0,0,0,0,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42257,OAS42257_demographics_d3000,0,2,83,0,2,0,3,3,80,1,58,138,28.8,0,0,0,0,0,0,0,0,0,1,MCI,2
+OAS42258,OAS42258_demographics_d3000,0,1,79,2,1,0,3,3,76,1,71,167,23.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42260,OAS42260_demographics_d3000,0,2,64,2,1,0,2,2,62,2,65,123,20.5,0,0,1,0,0,0,0,0,0,0,MCI,2
+OAS42261,OAS42261_demographics_d3000,0,2,90,3,2,9,3,3,87,0,62,113,20.7,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42262,OAS42262_demographics_d3000,0,2,76,2,1,0,1,3,73,0,64,107.25,18.4,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42263,OAS42263_demographics_d3000,1,2,75,0,1,0,1,3,72,0,57.5,86,18.3,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42264,OAS42264_demographics_d3000,0,1,68,2,1,0,1,0.25,68,0,66,214,34.5,0,0,0,0,0,0,0,0,0,0,Other - Miscellaneous,14
+OAS42265,OAS42265_demographics_d3000,0,1,71,2,1,9,1,2,69,1,71,307,42.8,0,0,0,1,1,0,0,0,0,1,Other Non-AD Neurodegenerative Disorder,5
+OAS42266,OAS42266_demographics_d3000,0,2,68,3,1,0,4,3,65,1,61.5,160,29.7,0,0,0,0,0,0,0,0,0,0,PPA,9
+OAS42267,OAS42267_demographics_d3000,0,1,80,4,1,0,1,4,76,0,67,185,29,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42268,OAS42268_demographics_d3000,0,2,54,4,1,0,1,3,51,1,64,111,19.1,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42269,OAS42269_demographics_d3000,0,2,80,4,1,0,2,2,78,1,65.5,141,23.1,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42270,OAS42270_demographics_d3000,0,2,78,4,1,0,1,3,75,0,58,91,19,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42271,OAS42271_demographics_d3000,0,2,62,3,1,0,1,3,59,0,61,133,25.1,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42272,OAS42272_demographics_d3000,0,2,60,2,1,9,1,0.5,60,1,62,132.5,24.2,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42273,OAS42273_demographics_d3000,0,2,80,2,1,0,3,3,77,0,64,140,24,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42274,OAS42274_demographics_d3000,0,2,71,4,2,0,1,4,67,0,64,184,31.6,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42275,OAS42275_demographics_d3000,0,2,90,3,1,0,4,2,88,2,62,106,19.4,0,0,0,0,0,0,0,0,0,1,MCI,2
+OAS42276,OAS42276_demographics_d3000,0,2,49,2,1,0,1,2,47,1,60,128,25,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42278,OAS42278_demographics_d3000,0,2,86,0,1,9,3,6,80,0,60,165.125,32.2,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42279,OAS42279_demographics_d3000,0,1,64,4,1,0,1,4,60,0,69,182,26.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42280,OAS42280_demographics_d3000,0,2,60,4,1,0,1,2,58,0,67,185.4,29,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42283,OAS42283_demographics_d3000,0,1,81,3,1,0,1,5,76,0,68,154,23.4,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42285,OAS42285_demographics_d3000,0,1,82,0,1,0,3,3,79,1,69,264.5,39.1,0,0,0,0,0,0,0,0,0,1,Alzheimer Disease Dementia,1
+OAS42286,OAS42286_demographics_d3000,0,2,66,4,1,9,2,2,64,0,64,123,21.1,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42287,OAS42287_demographics_d3000,1,1,76,4,1,0,1,1.5,74,1,71,176,24.5,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42288,OAS42288_demographics_d3000,0,2,60,3,2,0,4,2,58,0,61,186,35.1,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42289,OAS42289_demographics_d3000,0,2,84,2,1,0,5,0.66,83,1,65,125.25,20.8,0,0,0,0,0,0,0,0,0,1,Alzheimer Disease Dementia,1
+OAS42290,OAS42290_demographics_d3000,0,2,62,3,1,1,4,6,56,1,66,163,26.3,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42291,OAS42291_demographics_d3000,0,2,83,4,2,0,3,1,82,1,65,157,26.1,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42292,OAS42292_demographics_d3000,0,1,78,4,1,0,1,2,76,0,73,174,23,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42293,OAS42293_demographics_d3000,0,1,76,2,1,0,1,2,74,0,73,182,24,0,0,0,0,0,0,0,0,0,1,Alzheimer Disease Dementia,1
+OAS42294,OAS42294_demographics_d3000,0,1,89,4,1,0,1,5,84,0,68,154,23.4,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42295,OAS42295_demographics_d3000,0,2,72,2,1,0,1,1,71,0,67,172,26.9,1,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42296,OAS42296_demographics_d3000,0,2,77,2,1,9,2,4,73,1,61.5,123,22.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42297,OAS42297_demographics_d3000,0,2,76,2,1,0,3,1.5,74,0,62,142,26,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42298,OAS42298_demographics_d3000,0,1,90,2,1,0,3,3,87,0,69,180,26.6,0,0,1,0,0,0,0,0,0,0,MCI,2
+OAS42299,OAS42299_demographics_d3000,0,1,87,2,1,0,1,1,86,1,69,161,23.8,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42300,OAS42300_demographics_d3000,0,2,75,4,1,0,1,5,70,0,62,142.2,26,0,0,0,0,0,0,0,0,0,1,Alzheimer Disease Dementia,1
+OAS42301,OAS42301_demographics_d3000,0,1,78,3,1,0,1,2,76,1,70,182,26.1,0,1,0,1,0,0,1,0,0,0,AD/Vascular,7
+OAS42302,OAS42302_demographics_d3000,0,2,69,2,1,9,1,2,67,0,66,225,36.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42303,OAS42303_demographics_d3000,0,2,60,4,1,0,2,2,58,0,65,157.375,26.2,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42304,OAS42304_demographics_d3000,0,2,54,3,1,0,1,1,53,1,64,184,31.6,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42305,OAS42305_demographics_d3000,1,1,81,0,1,0,1,6,75,1,66.3,186,29.7,1,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42306,OAS42306_demographics_d3000,0,2,77,2,1,0,1,5,72,1,63.5,170,29.6,0,0,0,0,1,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42307,OAS42307_demographics_d3000,0,1,74,2,1,0,1,0.25,74,0,68,203,30.9,0,0,0,0,0,0,0,0,0,0,Other Non-AD Neurodegenerative Disorder,5
+OAS42308,OAS42308_demographics_d3000,0,1,85,3,1,0,2,3,82,2,66,126,20.3,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42309,OAS42309_demographics_d3000,0,2,74,2,1,0,1,3,71,0,66,110,17.8,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42311,OAS42311_demographics_d3000,0,2,76,3,1,0,1,2.5,73,1,65,152,25.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42312,OAS42312_demographics_d3000,1,1,44,3,1,0,5,3,41,0,71,207.4,28.9,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42313,OAS42313_demographics_d3000,0,2,86,2,1,9,3,3,83,0,56,100,22.4,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42314,OAS42314_demographics_d3000,0,1,77,4,1,0,1,8,69,0,69,200,29.5,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42316,OAS42316_demographics_d3000,0,2,72,3,1,0,3,5,67,1,63,181,32.1,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42317,OAS42317_demographics_d3000,1,2,79,2,1,0,1,3,76,0,65,145,24.1,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42318,OAS42318_demographics_d3000,0,2,81,2,1,0,1,2,79,0,64,161,27.6,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42319,OAS42319_demographics_d3000,0,1,77,2,1,9,1,2,75,0,67,193,30.2,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42320,OAS42320_demographics_d3000,0,1,79,4,1,0,1,5,74,0,67,167.2,26.2,0,1,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42321,OAS42321_demographics_d3000,0,1,55,0,2,0,4,1,54,2,67,170,26.6,0,0,0,0,0,1,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42322,OAS42322_demographics_d3000,0,2,87,2,2,0,2,3,84,0,62,146,26.7,0,0,0,0,0,0,0,0,0,1,Alzheimer Disease Dementia,1
+OAS42323,OAS42323_demographics_d3000,0,2,68,3,1,0,1,6,62,1,66,141,22.8,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42324,OAS42324_demographics_d3000,1,1,65,3,1,0,1,4,61,1,74,277,35.6,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42325,OAS42325_demographics_d3000,0,1,63,2,1,0,1,0.5,63,0,71,234,32.6,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42326,OAS42326_demographics_d3000,0,2,71,3,1,0,4,1,70,2,66,230,37.1,0,0,0,0,0,0,0,0,0,1,Vascular Cognitive Impairment (VCI),6
+OAS42327,OAS42327_demographics_d3000,1,1,71,3,1,0,1,10,61,0,70,219,31.4,0,0,0,0,0,0,0,0,0,0,Other Non-AD Neurodegenerative Disorder,5
+OAS42328,OAS42328_demographics_d3000,0,2,66,3,1,0,2,3,63,1,62,125,22.9,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42329,OAS42329_demographics_d3000,0,1,61,3,1,0,4,2,59,0,73,450,59.4,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42330,OAS42330_demographics_d3000,0,2,82,2,1,9,1,2,80,0,62,117,21.4,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42331,OAS42331_demographics_d3000,0,2,79,4,1,0,3,2,77,0,58.5,126,25.9,0,0,0,0,0,0,0,0,0,1,Cognitively Normal,0
+OAS42333,OAS42333_demographics_d3000,0,1,64,4,1,0,1,1,63,0,69,133,19.6,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42334,OAS42334_demographics_d3000,1,1,80,3,1,0,1,8,72,1,69,182,26.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42335,OAS42335_demographics_d3000,0,2,67,3,1,0,1,2,65,1,65,158.5,26.4,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42336,OAS42336_demographics_d3000,0,1,77,2,1,0,1,2,75,2,74,251.375,32.3,0,1,0,0,0,0,0,0,0,0,DLB,10
+OAS42337,OAS42337_demographics_d3000,0,1,67,2,1,0,1,4,63,1,72,191.125,25.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42338,OAS42338_demographics_d3000,0,2,66,3,2,0,4,2,64,1,65,200,33.3,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42340,OAS42340_demographics_d3000,0,1,56,2,1,0,1,2,54,1,64,166,28.5,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42341,OAS42341_demographics_d3000,0,2,83,3,1,0,3,2,81,0,60,108,21.1,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42342,OAS42342_demographics_d3000,0,1,90,2,1,0,1,2,88,0,68,139,21.1,1,0,1,0,0,0,1,0,0,0,Alzheimer Disease Dementia,1
+OAS42343,OAS42343_demographics_d3000,0,2,60,3,1,0,2,0.5,59,1,66,191,30.8,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42344,OAS42344_demographics_d3000,0,1,62,4,1,0,1,2,60,0,72,192,26,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42345,OAS42345_demographics_d3000,0,2,88,3,1,0,4,1,87,1,59,140,28.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42346,OAS42346_demographics_d3000,0,1,66,1,2,0,1,2,64,2,71,198.25,27.6,0,0,0,0,0,0,0,0,0,0,Vascular Cognitive Impairment (VCI),6
+OAS42347,OAS42347_demographics_d3000,0,2,76,2,1,0,3,3,73,0,65,117,19.5,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42348,OAS42348_demographics_d3000,0,1,72,2,2,0,1,8,64,0,70,248,35.6,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42350,OAS42350_demographics_d3000,0,2,80,0,1,0,1,3,77,0,67,130,20.4,1,0,0,0,0,0,1,0,0,0,DLB,10
+OAS42351,OAS42351_demographics_d3000,0,2,76,2,1,0,1,1,75,1,66,196,31.6,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42352,OAS42352_demographics_d3000,0,2,68,3,1,0,1,6,62,0,61,129,24.4,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42353,OAS42353_demographics_d3000,0,2,81,2,1,0,1,3,78,0,61.5,149,27.7,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42354,OAS42354_demographics_d3000,0,2,55,4,1,0,1,3,52,0,63,121,21.4,0,0,1,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42355,OAS42355_demographics_d3000,0,2,77,2,2,0,3,3,74,1,63,166,29.4,0,0,0,0,0,0,0,0,0,1,AD/Vascular,7
+OAS42356,OAS42356_demographics_d3000,0,1,74,2,1,0,1,2,72,1,70,208,29.8,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42357,OAS42357_demographics_d3000,0,1,75,2,1,0,1,3,72,0,75,303,37.9,0,0,0,0,0,0,0,0,0,1,Alzheimer Disease Dementia,1
+OAS42358,OAS42358_demographics_d3000,0,1,75,4,1,0,1,1.5,73,0,72,180,24.4,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42359,OAS42359_demographics_d3000,0,1,61,4,1,0,1,2,59,1,69,145.375,21.5,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42361,OAS42361_demographics_d3000,0,2,61,2,1,0,1,0.5,61,0,65,158,26.3,0,0,0,0,0,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42362,OAS42362_demographics_d3000,0,1,74,2,1,0,4,7,67,1,71,205.8,28.7,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42363,OAS42363_demographics_d3000,1,2,62,4,1,0,1,3,59,0,63.5,129,22.5,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42364,OAS42364_demographics_d3000,0,2,77,2,1,0,1,3,74,0,61,179.5,33.9,0,0,0,0,0,0,0,1,0,1,AD/Vascular,7
+OAS42365,OAS42365_demographics_d3000,0,2,74,2,1,0,3,6,68,1,66,193,31.1,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42366,OAS42366_demographics_d3000,0,1,61,4,1,0,1,2,59,0,72,239,32.4,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42367,OAS42367_demographics_d3000,0,1,67,2,2,0,4,0.25,66,0,71,205,28.6,0,1,0,0,0,0,0,0,0,1,Vascular Cognitive Impairment (VCI),6
+OAS42368,OAS42368_demographics_d3000,0,1,75,2,1,0,1,5,70,0,70,208.5,29.9,0,1,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42369,OAS42369_demographics_d3000,0,1,67,3,1,0,1,8,59,1,72,206,27.9,0,0,0,0,0,0,0,0,0,1,AD Variant,11
+OAS42370,OAS42370_demographics_d3000,0,2,73,2,1,0,1,1,72,0,67,147,23,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42371,OAS42371_demographics_d3000,0,1,60,4,1,0,1,5,55,0,68,205,31.2,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42372,OAS42372_demographics_d3000,1,1,71,3,1,0,1,3,68,0,69,203,30,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42373,OAS42373_demographics_d3000,0,1,68,3,1,0,1,5,63,0,74.5,202,25.6,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42374,OAS42374_demographics_d3000,0,2,86,4,1,0,1,2,84,0,59,101,20.4,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42375,OAS42375_demographics_d3000,0,2,77,2,1,0,3,1,76,0,59,145.25,29.3,0,0,0,0,0,0,0,0,0,1,Vascular Cognitive Impairment (VCI),6
+OAS42376,OAS42376_demographics_d3000,0,2,92,2,1,0,3,3,89,0,59,114,23,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42377,OAS42377_demographics_d3000,0,2,78,4,1,0,1,4,74,1,61,108,20.4,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42378,OAS42378_demographics_d3000,0,1,91,3,1,0,2,2,89,1,66,102,16.5,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42379,OAS42379_demographics_d3000,0,2,61,2,2,0,1,1,60,1,63.5,194,33.8,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42380,OAS42380_demographics_d3000,1,2,82,1,2,0,2,8,74,0,66,137,22.1,0,0,1,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42381,OAS42381_demographics_d3000,0,2,57,4,1,0,1,3,54,0,62,132,24.1,0,0,0,0,0,0,0,0,0,0,AD+Non Neurodegenerative,13
+OAS42382,OAS42382_demographics_d3000,0,2,89,2,1,0,3,3,86,1,61,130.2,24.6,0,0,0,0,0,1,0,0,0,0,DLB,10
+OAS42383,OAS42383_demographics_d3000,0,1,70,4,1,0,4,4,66,0,74,161,20.7,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42384,OAS42384_demographics_d3000,0,2,80,1,2,0,4,3,77,0,64,159.5,27.4,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42385,OAS42385_demographics_d3000,1,1,69,4,1,0,1,3,66,0,69.13,181,26.6,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42386,OAS42386_demographics_d3000,0,1,73,4,1,0,1,3,70,1,66,178,28.7,1,0,0,1,0,0,0,0,0,0,MCI,2
+OAS42387,OAS42387_demographics_d3000,0,2,78,4,1,0,1,2,76,0,61.5,144.5,26.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42388,OAS42388_demographics_d3000,0,2,67,3,1,0,1,0.66,66,0,67,132,20.7,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42389,OAS42389_demographics_d3000,0,2,80,0,1,9,3,6,74,0,62,170.5,31.2,0,0,0,0,0,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42390,OAS42390_demographics_d3000,1,1,66,3,1,0,1,2,64,0,67.5,158.6,24.5,0,0,0,0,0,0,0,0,0,0,AD Variant,11
+OAS42391,OAS42391_demographics_d3000,0,2,89,2,1,0,3,0.5,88,0,61.5,207,38.5,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42392,OAS42392_demographics_d3000,0,2,69,3,1,0,1,13,56,1,64,202.25,34.7,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42393,OAS42393_demographics_d3000,0,1,80,2,1,9,1,2,78,1,67,197,30.9,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42394,OAS42394_demographics_d3000,0,1,65,4,1,0,1,5,60,0,65,185,30.8,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42395,OAS42395_demographics_d3000,0,1,81,4,1,0,1,0.25,81,1,69,153,22.6,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42396,OAS42396_demographics_d3000,0,1,81,4,1,0,1,1,80,1,65,155,25.8,0,0,1,0,0,0,0,0,0,0,MCI,2
+OAS42397,OAS42397_demographics_d3000,0,1,74,0,1,0,1,6,68,0,66,158,25.5,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42398,OAS42398_demographics_d3000,0,2,80,2,1,0,1,2,78,1,62,155,28.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42399,OAS42399_demographics_d3000,0,2,78,3,2,0,4,1,77,1,60,132,25.8,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42400,OAS42400_demographics_d3000,0,2,82,3,1,0,1,1,81,1,65,173,28.8,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42401,OAS42401_demographics_d3000,0,1,92,0,1,9,1,5,87,0,73,210,27.7,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42402,OAS42402_demographics_d3000,0,2,70,2,1,0,1,1,69,0,57,122.125,26.4,0,0,0,0,0,0,1,0,0,0,AD/Vascular,7
+OAS42403,OAS42403_demographics_d3000,0,1,75,4,1,0,1,2,73,0,68,157,23.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42404,OAS42404_demographics_d3000,0,2,74,2,1,0,1,0.5,73,1,64,262.5,45.1,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42405,OAS42405_demographics_d3000,1,2,60,2,1,0,1,5,55,1,63,115,20.4,0,0,0,0,0,0,0,0,0,1,Uncertain - AD possible,8
+OAS42406,OAS42406_demographics_d3000,0,1,72,2,2,9,1,8,64,1,73,193,25.5,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42407,OAS42407_demographics_d3000,0,1,78,3,1,9,1,3,75,0,67,150,23.5,0,0,0,1,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42408,OAS42408_demographics_d3000,0,1,70,1,2,0,1,3,67,1,69.5,143,20.8,0,0,0,0,0,0,0,0,0,0,Other - Miscellaneous,14
+OAS42409,OAS42409_demographics_d3000,0,1,80,2,1,0,1,2,78,2,70,208,29.8,0,1,0,0,0,0,0,0,0,1,Uncertain - AD possible,8
+OAS42410,OAS42410_demographics_d3000,0,2,56,4,1,9,2,3,53,0,69,160,23.6,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42411,OAS42411_demographics_d3000,0,1,62,4,50,0,1,3,59,1,68.5,222,33.3,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42412,OAS42412_demographics_d3000,0,2,76,2,1,9,1,1,75,1,64,155,26.6,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42413,OAS42413_demographics_d3000,0,2,83,1,1,0,1,3,80,2,62,131,24,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42414,OAS42414_demographics_d3000,1,1,73,3,1,0,1,3,70,1,71,217,30.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42415,OAS42415_demographics_d3000,0,2,87,2,1,0,1,3,84,0,60,142,27.7,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42416,OAS42416_demographics_d3000,0,2,76,3,1,0,1,1,75,1,66,153,24.7,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42417,OAS42417_demographics_d3000,0,1,68,2,1,0,1,3,65,0,70,232,33.3,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42418,OAS42418_demographics_d3000,0,1,87,2,2,0,4,2,85,1,,,,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42419,OAS42419_demographics_d3000,0,2,86,4,1,0,2,2,84,1,63,110,19.5,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42420,OAS42420_demographics_d3000,0,2,65,2,2,0,1,5,60,0,64,123,21.1,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42421,OAS42421_demographics_d3000,0,2,59,2,1,9,2,2,57,0,63,221,39.1,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42422,OAS42422_demographics_d3000,0,1,76,4,1,0,1,2,74,0,67.25,210,32.6,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42423,OAS42423_demographics_d3000,0,1,76,2,1,0,1,1,75,1,70,213,30.6,0,0,0,0,0,0,0,0,0,0,Other - Miscellaneous,14
+OAS42424,OAS42424_demographics_d3000,0,2,72,2,1,0,1,2.5,69,1,67,165.375,25.9,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42425,OAS42425_demographics_d3000,0,1,69,2,1,0,1,2,67,1,68,203,30.9,0,1,0,0,0,0,0,0,0,0,Other Non-AD Neurodegenerative Disorder,5
+OAS42426,OAS42426_demographics_d3000,1,1,63,4,1,0,1,3,60,0,73,173,22.8,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42427,OAS42427_demographics_d3000,0,1,71,4,1,0,1,3,68,0,70,182,26.1,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42428,OAS42428_demographics_d3000,1,1,63,4,1,0,4,5,58,0,74,203,26.1,0,0,0,0,0,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42430,OAS42430_demographics_d3000,1,1,65,2,1,0,1,3,62,1,69,201,29.7,0,0,0,0,1,0,0,0,0,0,FTD,3
+OAS42432,OAS42432_demographics_d3000,0,2,65,2,1,0,4,2,63,0,63,167,29.6,0,0,0,0,0,0,0,0,0,0,AD Variant,11
+OAS42433,OAS42433_demographics_d3000,0,2,76,3,1,0,4,3,73,0,64,133,22.8,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42434,OAS42434_demographics_d3000,0,2,76,0,1,0,3,3,73,1,63,138.2,24.5,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42435,OAS42435_demographics_d3000,0,1,88,2,1,0,1,2,86,0,67,174,27.2,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42436,OAS42436_demographics_d3000,0,2,77,1,1,0,3,3,74,0,60,135,26.4,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42437,OAS42437_demographics_d3000,0,1,73,2,1,0,1,1,72,0,67,198,31,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42438,OAS42438_demographics_d3000,0,1,89,4,1,0,1,3,86,1,70,192,27.5,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42439,OAS42439_demographics_d3000,0,1,69,2,1,0,1,5,64,1,69,171.2,25.3,0,1,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42440,OAS42440_demographics_d3000,0,2,84,2,1,0,3,3,81,0,65,128,21.3,0,0,0,0,0,0,0,0,0,1,AD/Vascular,7
+OAS42441,OAS42441_demographics_d3000,1,1,59,4,1,0,1,4,55,1,70,180,25.8,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42442,OAS42442_demographics_d3000,0,2,54,3,1,0,1,6,48,0,67,153,24,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42443,OAS42443_demographics_d3000,1,1,80,4,1,0,1,12,68,0,67,150,23.5,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42444,OAS42444_demographics_d3000,0,2,60,1,3,0,1,3,57,1,65,122,20.3,0,0,0,0,0,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42445,OAS42445_demographics_d3000,1,2,76,4,1,0,3,10,66,0,61,131,24.7,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42446,OAS42446_demographics_d3000,0,2,78,0,1,0,4,2,76,0,60,135,26.4,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42447,OAS42447_demographics_d3000,0,2,50,2,2,0,3,4,46,3,63,123,21.8,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42448,OAS42448_demographics_d3000,0,1,67,3,1,0,1,2,65,0,74,218.4,28,0,1,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42449,OAS42449_demographics_d3000,0,1,80,4,1,0,4,2,78,0,61,147,27.8,1,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42450,OAS42450_demographics_d3000,0,1,68,3,1,9,1,1,67,0,71,243,33.9,0,0,0,0,0,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42451,OAS42451_demographics_d3000,0,1,80,3,1,0,1,6,74,0,65,155,25.8,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42452,OAS42452_demographics_d3000,1,1,72,4,1,0,1,4,68,1,73,182,24,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42453,OAS42453_demographics_d3000,0,1,70,3,1,0,1,3,67,2,70,141,20.2,0,0,0,0,0,0,0,0,1,0,Uncertain - AD possible,8
+OAS42454,OAS42454_demographics_d3000,0,2,65,0,2,9,1,2,63,0,63,197,34.9,0,0,0,0,0,0,0,0,0,1,Vascular Cognitive Impairment (VCI),6
+OAS42455,OAS42455_demographics_d3000,0,1,80,3,1,0,1,3,77,1,67,165,25.8,0,0,0,0,1,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42456,OAS42456_demographics_d3000,1,1,93,4,1,0,1,21,72,0,68,170,25.8,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42457,OAS42457_demographics_d3000,0,1,72,4,1,9,1,3,69,0,69,170,25.1,0,0,0,0,0,0,0,0,1,0,Cognitively Normal,0
+OAS42458,OAS42458_demographics_d3000,0,1,69,2,1,0,1,3,66,2,69,154,22.7,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42459,OAS42459_demographics_d3000,0,2,69,2,1,0,1,3,66,0,62.5,131,23.6,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42460,OAS42460_demographics_d3000,0,1,64,2,1,0,1,3,61,0,68.5,190,28.5,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42461,OAS42461_demographics_d3000,0,2,71,2,1,0,2,10,61,0,62,188,34.4,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42462,OAS42462_demographics_d3000,0,2,73,0,1,0,1,2,71,0,65,192,31.9,0,0,0,0,0,0,0,0,0,0,AD+Non Neurodegenerative,13
+OAS42463,OAS42463_demographics_d3000,0,2,73,2,1,0,3,4,69,0,65,141.5,23.5,0,0,0,0,0,0,0,0,0,0,AD+Non Neurodegenerative,13
+OAS42464,OAS42464_demographics_d3000,0,1,78,2,1,0,1,1,77,1,67,167,26.2,0,0,1,0,0,0,0,0,0,0,MCI,2
+OAS42465,OAS42465_demographics_d3000,0,2,78,2,1,0,1,1,77,0,62,155,28.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42466,OAS42466_demographics_d3000,0,2,75,4,1,0,3,4,71,0,64,175,30,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42467,OAS42467_demographics_d3000,0,1,73,4,1,0,4,4,69,0,70,206.375,29.6,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42468,OAS42468_demographics_d3000,0,1,62,4,1,0,1,2,60,0,72,192,26,0,0,0,0,0,0,0,0,0,0,AD Variant,11
+OAS42469,OAS42469_demographics_d3000,0,2,76,0,1,0,1,1,75,0,61,160,30.2,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42470,OAS42470_demographics_d3000,0,2,60,1,1,0,4,2.5,57,2,59,123,24.8,0,0,0,0,0,0,0,0,0,0,AD Variant,11
+OAS42471,OAS42471_demographics_d3000,0,2,77,2,1,0,4,2,75,0,65,147.125,24.5,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42472,OAS42472_demographics_d3000,0,2,65,3,50,0,1,1,64,0,59,117,23.6,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42473,OAS42473_demographics_d3000,0,1,67,3,1,0,1,1,66,0,70,194.375,27.9,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42474,OAS42474_demographics_d3000,0,2,67,2,1,0,1,2,65,0,63,235,41.6,0,1,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42475,OAS42475_demographics_d3000,0,2,72,2,1,0,1,1,71,1,62,220.25,40.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42476,OAS42476_demographics_d3000,0,2,72,2,1,9,1,2,70,0,,169,,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42477,OAS42477_demographics_d3000,0,2,52,3,1,1,1,5,47,0,67,211,33,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42478,OAS42478_demographics_d3000,0,2,76,0,1,0,3,1,75,1,64,142,24.4,0,0,0,0,0,0,0,0,0,0,AD Variant,11
+OAS42479,OAS42479_demographics_d3000,0,1,59,4,1,0,4,1,58,0,71,235.5,32.8,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42480,OAS42480_demographics_d3000,0,2,82,0,1,0,3,2,80,0,64,166,28.5,0,0,1,0,0,0,0,0,0,1,Alzheimer Disease Dementia,1
+OAS42481,OAS42481_demographics_d3000,0,2,77,2,1,0,1,3,74,0,63,163,28.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42482,OAS42482_demographics_d3000,1,2,76,0,1,0,1,6,70,1,68,128,19.5,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42483,OAS42483_demographics_d3000,0,1,73,2,1,9,1,2,71,1,68,224,34.1,0,0,1,0,0,0,0,0,0,0,Other Non-AD Neurodegenerative Disorder,5
+OAS42484,OAS42484_demographics_d3000,0,2,61,2,1,0,2,2,59,0,58,235,49.1,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42485,OAS42485_demographics_d3000,0,2,78,2,1,0,3,3,75,0,62,144,26.3,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42487,OAS42487_demographics_d3000,0,1,66,0,1,0,4,4,62,0,70,225,32.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42488,OAS42488_demographics_d3000,0,2,67,4,1,0,1,2,65,0,64,139,23.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42489,OAS42489_demographics_d3000,1,1,72,4,1,0,4,2,70,0,70,261,37.4,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42490,OAS42490_demographics_d3000,0,1,75,2,1,0,1,2,73,0,67,175,27.4,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42491,OAS42491_demographics_d3000,0,1,57,4,1,0,1,0.5,57,1,70,183.8,26.4,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42492,OAS42492_demographics_d3000,1,1,78,4,2,0,1,5,73,1,70,239,34.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42493,OAS42493_demographics_d3000,0,1,72,3,1,0,1,0.33,72,0,68,143,21.7,0,0,0,0,0,0,0,0,0,0,Other - Miscellaneous,14
+OAS42494,OAS42494_demographics_d3000,0,1,67,2,1,0,1,3,64,1,72,246,33.4,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42495,OAS42495_demographics_d3000,0,1,58,2,1,0,1,1,57,1,71,244,34,0,0,0,0,0,0,0,0,0,1,Uncertain - AD possible,8
+OAS42497,OAS42497_demographics_d3000,1,1,58,2,1,0,1,15,43,2,72,193.125,26.2,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42498,OAS42498_demographics_d3000,0,1,75,2,1,0,1,1,74,1,72,188.25,25.5,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42499,OAS42499_demographics_d3000,0,2,77,4,1,0,2,2,75,1,63,205,36.3,0,0,0,0,0,0,0,0,0,1,Uncertain - AD possible,8
+OAS42500,OAS42500_demographics_d3000,0,2,75,2,1,0,1,3,72,1,63,189,33.5,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42501,OAS42501_demographics_d3000,0,1,69,4,1,0,1,1,68,1,64.5,135,22.8,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42502,OAS42502_demographics_d3000,0,1,73,4,1,0,1,2,71,1,64,122,20.9,0,0,0,0,0,0,0,0,1,0,Alzheimer Disease Dementia,1
+OAS42503,OAS42503_demographics_d3000,0,1,80,4,50,0,3,1,79,0,64,145,24.9,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42504,OAS42504_demographics_d3000,0,1,77,2,1,0,1,3,74,1,71,205.4,28.6,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42505,OAS42505_demographics_d3000,0,2,68,2,2,0,4,5,63,0,64,174,29.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42506,OAS42506_demographics_d3000,0,1,64,2,1,9,3,12,52,0,69,160,23.6,0,0,0,0,0,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42507,OAS42507_demographics_d3000,0,1,73,2,1,0,1,3,70,2,71,201.125,28,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42508,OAS42508_demographics_d3000,0,2,68,2,1,0,2,1,67,0,61,146.4,27.7,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42509,OAS42509_demographics_d3000,0,2,21,2,5,0,4,2,19,0,63,144,25.5,0,0,0,0,0,0,1,0,0,0,Uncertain - AD possible,8
+OAS42510,OAS42510_demographics_d3000,0,2,80,2,1,0,1,2,78,0,56,100,22.4,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42511,OAS42511_demographics_d3000,1,1,84,0,1,0,1,14,70,3,68,170,25.8,0,0,0,0,0,0,0,0,1,0,Alzheimer Disease Dementia,1
+OAS42513,OAS42513_demographics_d3000,0,2,68,4,1,0,1,0.5,67,0,64,141.375,24.3,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42514,OAS42514_demographics_d3000,0,1,76,4,1,0,1,0.5,75,1,65,155,25.8,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42515,OAS42515_demographics_d3000,0,1,62,2,1,0,1,2,60,1,66,175,28.2,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42516,OAS42516_demographics_d3000,0,1,71,2,1,0,1,4,67,1,76,229,27.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42517,OAS42517_demographics_d3000,0,2,77,2,1,0,1,1,76,1,58,90,18.8,0,0,0,0,0,0,0,0,0,1,Cognitively Normal,0
+OAS42518,OAS42518_demographics_d3000,0,2,68,2,1,0,1,3,65,0,61,136.5,25.8,0,0,0,0,0,0,0,0,0,0,PPA,9
+OAS42519,OAS42519_demographics_d3000,0,1,64,2,1,0,1,9,55,1,75,300,37.5,0,0,1,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42520,OAS42520_demographics_d3000,0,2,37,3,1,0,4,7,30,0,62,131,24,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42521,OAS42521_demographics_d3000,0,1,56,3,1,0,4,1,55,0,70,188,27,0,0,0,0,0,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42522,OAS42522_demographics_d3000,0,1,60,2,1,9,1,2,58,2,66,155,25,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42523,OAS42523_demographics_d3000,0,2,59,2,1,9,1,4,55,0,67,128.125,20.1,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42524,OAS42524_demographics_d3000,0,1,93,2,1,0,1,1,92,0,69.5,169,24.6,1,0,0,1,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42525,OAS42525_demographics_d3000,0,2,58,2,1,0,1,0.5,58,0,61,210,39.7,0,0,0,0,0,0,0,0,0,0,Other - Miscellaneous,14
+OAS42527,OAS42527_demographics_d3000,0,1,74,4,1,0,1,2,72,1,72,211.5,28.7,0,0,1,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42528,OAS42528_demographics_d3000,0,1,78,3,1,0,1,3,75,1,64,,,0,0,0,0,0,0,0,0,0,1,Uncertain - AD possible,8
+OAS42529,OAS42529_demographics_d3000,1,1,85,2,1,0,4,5,80,1,69,181,26.7,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42530,OAS42530_demographics_d3000,0,2,71,3,1,0,1,2,69,0,54.5,195,46.2,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42531,OAS42531_demographics_d3000,0,1,72,4,1,0,1,3,69,0,72,230,31.2,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42532,OAS42532_demographics_d3000,0,2,59,2,1,0,1,3,56,1,63,174,30.8,0,0,0,0,0,0,0,0,0,0,PPA,9
+OAS42533,OAS42533_demographics_d3000,0,2,53,3,1,0,1,3,50,1,64,200.4,34.4,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42536,OAS42536_demographics_d3000,0,2,66,4,1,0,2,5,61,0,62,198,36.2,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42537,OAS42537_demographics_d3000,0,1,61,3,1,0,5,5,56,1,70,165,23.7,0,0,0,0,0,0,0,0,0,0,Other - Miscellaneous,14
+OAS42538,OAS42538_demographics_d3000,0,2,90,2,1,0,1,3,87,0,63,116,20.5,0,0,0,0,0,0,0,0,0,1,MCI,2
+OAS42539,OAS42539_demographics_d3000,0,1,84,2,1,0,3,6,78,0,76,261.5,31.8,1,0,0,0,0,0,0,0,0,1,Vascular Cognitive Impairment (VCI),6
+OAS42540,OAS42540_demographics_d3000,0,2,55,4,1,0,1,1,54,0,63,138,24.4,0,0,1,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42541,OAS42541_demographics_d3000,0,2,68,0,1,0,1,2,66,1,65,161,26.8,0,0,0,0,0,0,0,0,0,1,Other - Miscellaneous,14
+OAS42542,OAS42542_demographics_d3000,0,2,67,4,1,0,1,1,66,0,63,130.6,23.1,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42543,OAS42543_demographics_d3000,0,2,77,3,1,0,3,3,74,2,62.5,104,18.7,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42544,OAS42544_demographics_d3000,0,2,76,2,1,0,1,3,73,0,67,157,24.6,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42545,OAS42545_demographics_d3000,1,2,76,2,1,0,1,3,73,0,61,114,21.5,0,0,0,0,0,0,0,0,0,0,PPA,9
+OAS42546,OAS42546_demographics_d3000,0,2,68,4,1,0,1,2,66,0,63,119,21.1,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42547,OAS42547_demographics_d3000,0,1,72,2,2,0,1,6,66,1,70,139,19.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42548,OAS42548_demographics_d3000,1,1,76,2,1,0,1,3,73,1,69,232,34.3,0,1,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42549,OAS42549_demographics_d3000,0,2,71,3,1,0,1,0.66,70,0,66,183.6,29.6,0,0,0,0,0,0,0,0,0,1,Uncertain - AD possible,8
+OAS42551,OAS42551_demographics_d3000,0,2,75,2,1,0,1,5,70,0,66,139.125,22.5,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42552,OAS42552_demographics_d3000,0,2,76,2,1,9,1,0.83,75,1,64,150,25.7,0,0,0,0,0,0,0,0,0,1,Uncertain - AD possible,8
+OAS42553,OAS42553_demographics_d3000,0,2,74,3,1,0,3,2,72,0,60,103,20.1,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42554,OAS42554_demographics_d3000,1,2,68,3,1,0,1,4,64,0,64.5,162,27.4,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42555,OAS42555_demographics_d3000,0,1,59,4,5,0,1,4,55,0,68,169,25.7,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42556,OAS42556_demographics_d3000,0,1,77,3,1,0,1,3,74,0,70,203,29.1,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42557,OAS42557_demographics_d3000,0,2,91,2,1,0,4,6,85,1,59,136,27.5,0,0,0,0,0,0,0,0,0,1,AD/Vascular,7
+OAS42558,OAS42558_demographics_d3000,0,2,63,3,1,0,4,4,59,1,63,194,34.4,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42559,OAS42559_demographics_d3000,0,1,70,3,1,0,1,1,69,2,73,194,25.6,0,1,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42560,OAS42560_demographics_d3000,0,2,76,2,1,0,1,2,74,0,61,149,28.2,0,0,0,0,0,0,0,0,0,1,Early Onset AD,4
+OAS42561,OAS42561_demographics_d3000,0,1,94,1,1,0,3,2,92,1,66,148,23.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42562,OAS42562_demographics_d3000,1,2,68,4,1,0,1,3,65,1,62,139,25.4,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42563,OAS42563_demographics_d3000,0,1,67,2,1,0,1,2,65,1,72,210,28.5,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42564,OAS42564_demographics_d3000,0,2,74,2,1,9,1,5,69,2,60.5,134,25.7,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42565,OAS42565_demographics_d3000,0,1,38,2,1,0,1,20,18,1,68,176.6,26.8,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42566,OAS42566_demographics_d3000,0,1,60,3,1,0,1,1,59,0,68,169.25,25.7,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42567,OAS42567_demographics_d3000,0,2,71,2,1,0,3,2,69,1,62,101,18.5,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42568,OAS42568_demographics_d3000,0,1,74,4,5,0,1,7,67,1,66,152,24.5,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42569,OAS42569_demographics_d3000,0,1,55,2,1,0,1,1,54,1,71,171,23.8,0,1,0,0,1,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42570,OAS42570_demographics_d3000,0,2,76,3,1,0,3,2,74,1,66,150,24.2,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42571,OAS42571_demographics_d3000,0,1,61,3,1,0,1,6,55,0,74,305,39.2,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42573,OAS42573_demographics_d3000,0,2,66,3,1,0,1,1,65,0,63,149.25,26.4,0,0,0,0,0,0,0,0,0,0,AD Variant,11
+OAS42574,OAS42574_demographics_d3000,0,1,69,3,1,0,1,3,66,0,72,271,36.8,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42575,OAS42575_demographics_d3000,0,1,86,3,2,0,1,2,84,2,66,113.25,18.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42578,OAS42578_demographics_d3000,0,2,60,4,1,0,2,5,55,1,67,183,28.7,0,1,0,0,0,0,0,0,0,1,Uncertain - AD possible,8
+OAS42579,OAS42579_demographics_d3000,0,2,61,0,2,0,3,4,57,2,65,130,21.6,0,0,0,0,0,0,0,0,0,1,Mood/polypharmacy/sleep,12
+OAS42580,OAS42580_demographics_d3000,1,2,63,4,1,0,4,9,54,1,64,130,22.3,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42581,OAS42581_demographics_d3000,0,1,67,4,1,0,1,0.66,66,0,72,248.6,33.7,0,0,0,0,0,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42582,OAS42582_demographics_d3000,0,1,60,2,1,0,1,6,54,1,70,168,24.1,0,0,0,0,0,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42583,OAS42583_demographics_d3000,0,2,81,3,1,0,1,2,79,0,66,145,23.4,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42584,OAS42584_demographics_d3000,0,1,68,4,1,0,1,7,61,1,76,216.8,26.4,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42585,OAS42585_demographics_d3000,0,1,62,3,1,0,1,1,61,1,68,261,39.7,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42586,OAS42586_demographics_d3000,0,2,70,3,1,0,1,3,67,1,64,124,21.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42587,OAS42587_demographics_d3000,1,1,55,2,1,0,1,20,35,2,68,126,19.2,1,0,0,0,0,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42588,OAS42588_demographics_d3000,0,2,57,2,1,0,5,8,49,0,65,158,26.3,0,1,0,0,0,0,0,0,0,0,Other - Miscellaneous,14
+OAS42589,OAS42589_demographics_d3000,0,1,89,4,1,0,1,3,86,0,67.5,170,26.2,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42590,OAS42590_demographics_d3000,0,1,83,1,1,1,1,2,81,2,65.5,153,25.1,0,1,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42591,OAS42591_demographics_d3000,0,2,93,2,1,0,3,2,91,0,60,132,25.8,0,0,0,0,0,0,0,0,0,1,Alzheimer Disease Dementia,1
+OAS42592,OAS42592_demographics_d3000,0,1,74,3,1,0,1,10,64,0,73,258,34,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42593,OAS42593_demographics_d3000,0,1,62,2,1,0,1,3,59,1,71,270,37.7,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42595,OAS42595_demographics_d3000,0,2,85,1,1,0,3,2,83,1,60,140.5,27.4,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42596,OAS42596_demographics_d3000,0,2,66,2,1,0,1,3,63,1,66,220,35.5,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42597,OAS42597_demographics_d3000,0,2,75,2,1,0,1,1.5,73,0,63,123,21.8,0,1,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42598,OAS42598_demographics_d3000,0,1,72,1,1,0,1,2,70,1,74,205.5,26.4,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42599,OAS42599_demographics_d3000,0,2,89,1,1,0,3,3,86,0,62,146,26.7,1,0,0,1,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42600,OAS42600_demographics_d3000,0,1,67,3,1,0,3,1,66,1,75,306,38.2,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42601,OAS42601_demographics_d3000,0,1,61,4,1,0,1,2,59,0,73,217,28.6,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42602,OAS42602_demographics_d3000,0,2,90,4,2,0,3,1,89,0,64,102,17.5,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42603,OAS42603_demographics_d3000,0,2,69,4,1,0,2,4,65,0,65,154,25.6,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42604,OAS42604_demographics_d3000,0,2,70,4,2,0,3,1,69,0,63.5,182.5,31.8,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42605,OAS42605_demographics_d3000,0,2,66,3,1,0,2,0.33,66,1,60,110,21.5,0,0,0,0,0,0,0,0,1,0,Uncertain - AD possible,8
+OAS42606,OAS42606_demographics_d3000,0,2,65,2,1,0,2,3,62,1,61,128,24.2,0,0,0,0,0,0,0,0,0,1,Alzheimer Disease Dementia,1
+OAS42607,OAS42607_demographics_d3000,0,1,65,4,1,0,1,6,59,1,70,203.125,29.1,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42608,OAS42608_demographics_d3000,0,1,55,4,1,0,1,6,49,0,76,259,31.5,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42609,OAS42609_demographics_d3000,0,1,72,3,1,0,1,3,69,0,72,273,37,0,0,1,0,0,0,0,0,0,1,Cognitively Normal,0
+OAS42611,OAS42611_demographics_d3000,0,1,84,4,1,9,1,2,82,0,73.6,178,23.1,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42612,OAS42612_demographics_d3000,0,1,88,4,1,0,4,0.75,87,0,68,189,28.7,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42613,OAS42613_demographics_d3000,0,1,68,3,1,0,1,2,66,0,75,202,25.2,0,1,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42614,OAS42614_demographics_d3000,0,1,73,3,1,0,3,2,71,1,72,222.2,30.1,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42615,OAS42615_demographics_d3000,0,1,78,2,1,0,1,3,75,0,66,154,24.9,0,0,1,0,0,0,0,0,0,0,Vascular Cognitive Impairment (VCI),6
+OAS42616,OAS42616_demographics_d3000,0,2,66,3,1,0,1,6,60,1,63,156,27.6,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42617,OAS42617_demographics_d3000,0,1,79,3,1,0,1,2,77,1,65,150,25,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42618,OAS42618_demographics_d3000,0,2,68,2,1,0,3,3,65,0,64,188,32.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42619,OAS42619_demographics_d3000,0,1,59,3,1,0,1,0.25,59,1,72,214,29,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42620,OAS42620_demographics_d3000,0,1,76,2,1,0,1,3,73,1,65,151,25.1,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42621,OAS42621_demographics_d3000,0,1,73,1,2,0,1,8,65,1,61,161,30.4,0,0,0,1,0,0,0,0,0,0,DLB,10
+OAS42622,OAS42622_demographics_d3000,0,2,65,4,1,0,1,2,63,0,63,117,20.7,0,0,0,0,0,0,0,0,0,1,Uncertain - AD possible,8
+OAS42623,OAS42623_demographics_d3000,0,1,80,0,1,0,1,1,79,1,70,145,20.8,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42624,OAS42624_demographics_d3000,0,1,68,4,1,0,1,3,65,1,67,173,27.1,0,0,0,1,0,0,1,0,0,0,AD+Non Neurodegenerative,13
+OAS42625,OAS42625_demographics_d3000,0,2,79,2,1,0,1,5,74,0,55,102.5,23.8,0,0,0,0,0,0,0,0,0,0,AD Variant,11
+OAS42627,OAS42627_demographics_d3000,0,2,57,4,1,0,1,1,56,0,65,218,36.3,0,0,0,0,0,0,0,0,0,0,Other - Miscellaneous,14
+OAS42628,OAS42628_demographics_d3000,0,1,64,3,1,0,1,3,61,2,73,196,25.9,0,0,0,0,0,0,0,0,0,0,AD/Vascular,7
+OAS42629,OAS42629_demographics_d3000,0,2,61,2,1,0,1,5,56,1,65,189.2,31.5,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42630,OAS42630_demographics_d3000,1,2,75,2,2,0,1,2,73,0,65,136,22.6,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42631,OAS42631_demographics_d3000,0,1,73,4,1,0,1,1,72,0,72,147,19.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42634,OAS42634_demographics_d3000,0,1,67,1,1,0,1,0.58,66,1,67,220.125,34.5,0,0,0,0,0,0,0,0,0,1,Vascular Cognitive Impairment (VCI),6
+OAS42635,OAS42635_demographics_d3000,0,2,74,3,1,0,1,1,73,1,64,180,30.9,0,0,0,0,0,0,0,0,0,1,Other - Miscellaneous,14
+OAS42636,OAS42636_demographics_d3000,0,1,64,3,1,0,1,3,61,0,72,244,33.1,0,0,0,0,0,0,0,0,0,1,Mood/polypharmacy/sleep,12
+OAS42637,OAS42637_demographics_d3000,0,2,82,3,1,0,3,8,74,0,64.5,147,24.8,0,0,0,0,0,0,1,0,0,0,Alzheimer Disease Dementia,1
+OAS42638,OAS42638_demographics_d3000,0,1,59,4,1,0,1,10,49,0,67,178,27.9,0,0,0,0,0,0,0,0,0,1,FTD,3
+OAS42640,OAS42640_demographics_d3000,0,2,79,2,1,0,3,0.5,79,1,64,147,25.2,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42641,OAS42641_demographics_d3000,0,1,72,2,1,0,1,5,67,1,69,272,40.2,0,0,1,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42643,OAS42643_demographics_d3000,0,2,83,2,1,0,3,0.75,82,0,61,98.6,18.6,0,1,0,0,0,1,0,0,0,0,Uncertain - AD possible,8
+OAS42644,OAS42644_demographics_d3000,0,2,71,2,1,0,1,2,69,1,67,184,28.8,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42645,OAS42645_demographics_d3000,0,1,80,3,1,9,2,4,76,0,74,205,26.3,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42646,OAS42646_demographics_d3000,0,2,76,2,1,0,1,1,75,1,64,117,20.1,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42647,OAS42647_demographics_d3000,0,2,64,0,1,0,1,2,62,1,68.5,158,23.7,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42648,OAS42648_demographics_d3000,0,1,82,3,1,0,4,5,77,1,68,174.125,26.5,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42650,OAS42650_demographics_d3000,0,1,70,3,1,0,1,2,68,1,67,152,23.8,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42651,OAS42651_demographics_d3000,0,2,71,2,1,0,2,3,68,2,62,144,26.3,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42652,OAS42652_demographics_d3000,0,2,80,0,1,0,1,3,77,0,64,144,24.7,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42653,OAS42653_demographics_d3000,0,1,68,2,1,0,1,2.5,65,2,67,151,23.6,0,0,0,0,0,0,0,0,0,0,DLB,10
+OAS42655,OAS42655_demographics_d3000,0,2,76,4,1,0,1,3,73,0,69,192,28.4,0,0,0,0,0,0,1,0,0,0,Alzheimer Disease Dementia,1
+OAS42656,OAS42656_demographics_d3000,1,2,83,3,1,0,1,3,80,0,59,158.6,32,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42657,OAS42657_demographics_d3000,0,1,61,4,1,9,1,1,60,0,72,185,25.1,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42658,OAS42658_demographics_d3000,0,1,67,4,1,0,1,4,63,1,71,155,21.6,0,0,0,0,0,0,0,0,0,0,PPA,9
+OAS42659,OAS42659_demographics_d3000,0,2,79,2,1,0,1,3,76,0,63,168,29.8,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42660,OAS42660_demographics_d3000,0,2,71,2,1,0,3,2,69,2,58,141.6,29.6,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42661,OAS42661_demographics_d3000,0,2,81,0,1,0,3,1,80,0,64,149,25.6,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42662,OAS42662_demographics_d3000,0,2,86,1,1,0,1,1,85,0,60,124.5,24.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42663,OAS42663_demographics_d3000,1,1,73,4,1,0,1,8,65,1,68,184,28,0,0,0,0,0,0,0,0,0,1,Vascular Cognitive Impairment (VCI),6
+OAS42664,OAS42664_demographics_d3000,0,1,69,0,1,0,2,1,68,2,69,197,29.1,0,0,1,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42665,OAS42665_demographics_d3000,1,2,56,0,1,0,4,4,52,0,64,186.5,32,0,0,0,0,0,0,0,0,1,0,Other Non-AD Neurodegenerative Disorder,5
+OAS42666,OAS42666_demographics_d3000,0,1,78,2,1,0,1,1,77,1,71,195,27.2,0,0,0,0,0,0,0,0,0,0,Other - Miscellaneous,14
+OAS42667,OAS42667_demographics_d3000,0,2,63,4,1,0,1,4,59,0,64,132.375,22.7,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42668,OAS42668_demographics_d3000,0,1,73,4,1,0,1,14,59,0,65,157.5,26.2,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42669,OAS42669_demographics_d3000,0,1,78,4,1,0,1,2,76,0,71,198,27.6,0,0,0,0,0,0,0,0,0,0,AD+Non Neurodegenerative,13
+OAS42670,OAS42670_demographics_d3000,0,2,63,3,1,0,2,4,59,0,66,108,17.4,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42671,OAS42671_demographics_d3000,0,1,65,2,1,0,1,0.5,65,1,71,198,27.6,0,0,0,1,0,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42672,OAS42672_demographics_d3000,0,1,67,4,1,0,1,2,65,0,70,183,26.3,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42674,OAS42674_demographics_d3000,0,1,79,2,1,0,3,2,77,0,60,182,35.5,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42675,OAS42675_demographics_d3000,0,2,69,2,1,0,1,3,66,0,59,101,20.4,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42676,OAS42676_demographics_d3000,0,1,69,4,1,0,1,2,67,0,69,258,38.1,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42677,OAS42677_demographics_d3000,0,1,66,2,1,0,3,2,64,1,70,196,28.1,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42678,OAS42678_demographics_d3000,0,1,62,2,1,0,1,0.75,61,0,72,233.375,31.6,0,0,0,0,0,0,0,1,0,1,Non-Neurodegenerative Neurologic Disease,5
+OAS42681,OAS42681_demographics_d3000,0,1,74,4,1,0,4,2,72,0,72,160,21.7,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42682,OAS42682_demographics_d3000,0,1,75,4,1,0,1,2.5,72,1,68,198.8,30.2,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42683,OAS42683_demographics_d3000,0,2,57,2,1,9,4,10,47,0,65,88.5,14.7,0,0,0,0,0,0,0,0,0,0,AD Variant,11
+OAS42684,OAS42684_demographics_d3000,0,1,65,3,1,9,1,15,50,0,69.5,198,28.8,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42687,OAS42687_demographics_d3000,0,2,83,2,1,9,1,1,82,0,67,181,28.3,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42688,OAS42688_demographics_d3000,0,2,84,3,2,0,3,0.5,83,0,61,132,24.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42689,OAS42689_demographics_d3000,0,2,83,2,1,0,3,13,70,0,60,144,28.1,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42690,OAS42690_demographics_d3000,0,2,59,0,2,0,1,2,57,2,68,191,29,0,0,0,0,0,0,0,0,0,0,Non-Neurodegenerative Neurologic Disease,5
+OAS42691,OAS42691_demographics_d3000,0,2,74,2,1,0,1,3,71,1,61,147,27.8,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42692,OAS42692_demographics_d3000,0,1,49,2,2,0,4,4,45,0,68,174,26.5,0,0,0,0,0,0,0,0,0,0,Other Non-AD Neurodegenerative Disorder,5
+OAS42693,OAS42693_demographics_d3000,0,2,82,2,1,0,1,4,78,1,61,148.375,28,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42695,OAS42695_demographics_d3000,0,2,71,4,5,0,1,0.5,70,0,61,144,27.2,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42696,OAS42696_demographics_d3000,0,1,56,3,5,0,1,1.5,54,0,66,195,31.5,0,0,1,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42697,OAS42697_demographics_d3000,0,1,75,0,1,0,1,2,73,1,68,169,25.7,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42698,OAS42698_demographics_d3000,0,1,65,2,1,0,1,2,63,1,71,221.125,30.8,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42699,OAS42699_demographics_d3000,0,2,61,4,5,0,1,4,57,0,62,114.5,20.9,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42700,OAS42700_demographics_d3000,0,1,83,2,1,0,3,7,76,0,68,203.5,30.9,1,1,0,0,0,0,1,0,0,0,DLB,10
+OAS42701,OAS42701_demographics_d3000,0,2,73,2,1,0,1,2,71,0,65,122,20.3,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42702,OAS42702_demographics_d3000,0,1,76,4,1,0,1,0.5,75,1,68,197.25,30,0,0,0,0,0,0,0,0,0,0,Cognitively Normal,0
+OAS42703,OAS42703_demographics_d3000,0,2,68,2,2,0,3,9,59,2,69,188,27.8,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42704,OAS42704_demographics_d3000,0,1,78,3,5,0,1,6,72,1,70,177,25.4,0,1,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42706,OAS42706_demographics_d3000,0,2,70,2,1,9,2,2,68,0,64,238,40.8,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42707,OAS42707_demographics_d3000,0,2,65,2,1,0,1,5,60,0,61,150,28.3,0,0,0,0,0,0,0,0,0,0,Uncertain - AD possible,8
+OAS42709,OAS42709_demographics_d3000,0,2,80,3,1,0,1,1,79,0,59.5,103,20.5,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42710,OAS42710_demographics_d3000,0,2,76,4,1,0,3,2,74,0,61,95,17.9,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42711,OAS42711_demographics_d3000,0,1,84,2,1,0,1,4,80,0,69,164,24.2,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42712,OAS42712_demographics_d3000,0,1,60,4,1,0,1,4,56,0,70,204.375,29.3,0,0,0,0,0,0,0,0,0,0,Early Onset AD,4
+OAS42713,OAS42713_demographics_d3000,0,1,84,4,1,0,1,10,74,1,70,164,23.5,0,0,0,0,0,0,0,0,0,1,AD/Vascular,7
+OAS42714,OAS42714_demographics_d3000,0,2,67,2,1,0,1,2,65,0,61,172,32.5,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42715,OAS42715_demographics_d3000,0,1,77,2,1,0,1,3,74,1,66,181,29.2,0,0,0,0,0,0,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42716,OAS42716_demographics_d3000,0,2,43,4,1,0,1,2,41,0,64.5,174.6,29.5,0,0,0,0,0,0,0,0,0,0,Mood/polypharmacy/sleep,12
+OAS42717,OAS42717_demographics_d3000,0,2,76,0,1,0,1,8,68,1,63,132,23.4,0,0,0,1,0,0,0,0,0,0,Other Non-AD Neurodegenerative Disorder,5
+OAS42718,OAS42718_demographics_d3000,0,2,83,4,1,0,1,5,78,0,62.5,121,21.8,0,1,0,0,0,1,0,0,0,0,Alzheimer Disease Dementia,1
+OAS42719,OAS42719_demographics_d3000,0,2,77,2,1,0,1,3,74,1,63,225,39.9,0,0,0,0,0,0,0,0,0,0,FTD,3
+OAS42720,OAS42720_demographics_d3000,0,2,75,2,2,0,1,1,74,0,64,169,29,0,0,0,1,0,0,0,0,0,0,MCI,2
+OAS42721,OAS42721_demographics_d3000,0,2,73,4,2,0,2,3,70,0,66,153,24.7,0,0,0,0,0,0,0,0,0,0,AD+Non Neurodegenerative,13
+OAS42724,OAS42724_demographics_d3000,0,2,69,4,1,0,1,3,66,1,66,130,21,0,0,0,0,0,0,0,0,0,0,AD Variant,11
+OAS42725,OAS42725_demographics_d3000,0,1,86,3,1,0,1,3,83,1,65,172,28.6,0,0,0,0,0,0,0,0,0,0,MCI,2
+OAS42726,OAS42726_demographics_d3000,0,2,60,3,1,0,4,2,58,2,68,237,36,0,0,0,0,0,0,1,0,0,0,Mood/polypharmacy/sleep,12
+OAS42727,OAS42727_demographics_d3000,0,1,68,4,1,0,1,3,65,1,65.5,202,33.1,0,0,0,0,0,0,0,0,0,0,MCI,2

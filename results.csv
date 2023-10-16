@@ -1,0 +1,6 @@
+model,accuracy
+Logistic Regression,0.939130435
+Logistic Regression with SMOTE,0.886956522
+Random Forest,0.943478261
+XGBoost,0.0261313395382217 (MSE)
+Gradient Boost,0.943478261
